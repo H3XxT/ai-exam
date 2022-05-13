@@ -258,9 +258,9 @@ jupyter-core==4.9.2 ; python_full_version >= "3.6.1" and python_version >= "3.7"
 jupyter-server-mathjax==0.2.5 ; python_version >= "3.7" \
     --hash=sha256:d165c9ff876a1c32ccf99d309b57463fae206d9b6f0f3a9fa34ed01b3b26605e \
     --hash=sha256:64d96c8e6dfe6edba737902b2dc3a2dc058f17516776c25f4d30ca24617ee7b3
-jupyter-server==1.13.5 ; python_version >= "3.7" \
-    --hash=sha256:a3eb9d397df2de26134cb24fe7cb5da60ec28b4f8b292e0bdefd450b1f062dd3 \
-    --hash=sha256:9e3e9717eea3bffab8cfb2ff330011be6c8bbd9cdae5b71cef169fcece2f19d3
+jupyter-server==1.15.4 ; python_version >= "3.7" \
+    --hash=sha256:1983a2a71d8709a77da6804ece67ded776c201ba11126de7002d088fb3418c85 \
+    --hash=sha256:94a136b6ed4826ac6a1fab3bfeff8a698a7833578548f78f302ed1ba90b1e534
 jupyterlab-pygments==0.1.2 ; python_version >= "3.7" \
     --hash=sha256:abfb880fd1561987efaefcb2d2ac75145d2a5d0139b1876d5be806e32f630008 \
     --hash=sha256:cfcda0873626150932f438eccf0f8bf22bfa92345b814890ab360d666b254146
